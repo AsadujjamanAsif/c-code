@@ -1,0 +1,33 @@
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |         Bangabandhu Tunnel        |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bike-00006  |
+     |  Vehicle Type      :  BIKE        |
+     |  Number Of Vehicle :  2           |
+     |  Amount            :  200         |
+     |  Date              :  Oct  4 2022 |
+     |  Time              :  02:53:33    |
+     *************************************
+
+
+     ******Here is your Payment Slip******
+     |***********************************|
+     |          BANGLADESH ROAD          |
+     |        TRANSPORT AUTHORITY        |
+     |          MAWA TOLL PLAZA          |
+     *                                   |
+     *                                   |
+     |  Transaction No    :  Bike-00006  |
+     |  BIKE Reg.No.      :  01950861200 |
+     |  Vehicle Type      :  BIKE        |
+     |  Number Of Vehicle :  1           |
+     |  Amount            :  100 TK      |
+     |  Date              :  Nov 21 2023 |
+     |  Time              :  18:52:31    |
+     *************************************
+
+
